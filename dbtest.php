@@ -6,7 +6,5 @@ $result = mysql_query ("SELECT * FROM sensor_data ORDER BY timeStamp DESC",$link
 
 $row = mysql_fetch_array($result);
     
-echo $row["timeStamp"];
-    
 ?>
 
