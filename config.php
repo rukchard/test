@@ -1,6 +1,6 @@
 <?php
 
-		$server="localhost";
+		$server="49.231.30.115";
 		$user="root";
 		$pass="hctr77hd";
 		$db="hydro";
